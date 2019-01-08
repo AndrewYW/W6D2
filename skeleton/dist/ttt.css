@@ -13,6 +13,18 @@ li {
   background: grey;
 }
 
+font {
+  display:block;
+
+  font-size: 300px;
+  text-align: center;
+  line-height: 225px;
+}
+
 li:hover {
   background: yellow;
+}
+
+.clicked {
+  background-color: white;
 }
