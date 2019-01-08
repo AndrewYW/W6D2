@@ -1,0 +1,29 @@
+ul {
+  display: flex;
+  flex-direction: column-reverse;
+  background: grey;
+}
+
+li {
+  background: green;
+  margin: 5px;
+
+}
+
+.tower3{
+  height: 50px;
+  width: 150px;;
+  background-color: red;
+}
+
+.tower1 {
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+}
+
+.tower2 {
+  height: 50px;
+  width: 100px;
+  background-color: purple;
+}
